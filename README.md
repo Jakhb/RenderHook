@@ -4,8 +4,11 @@ The idea was to be able to learn how DirectX, Vulkan and OpenGL worked and be ab
 ## Status
 Work in progress. May rewrite parts and may or may not try implement the Vulkan API. 
 
-## Building
+Todo: 
+- Automatic API detecting
+- Less repetitive code
 
+## Building
 
 I am no C++ genius, and its not a language I have been working that much with, so there may or may not be some code smells. However, you should be able to open the project and then just build the project. You may need to install the different API SDKs (Uncertain). 
 
